@@ -1,0 +1,26 @@
+{
+  "name": "lab-whatsapp",
+  "version": "1.0.0",
+  "description": "chat de Whatsapp en node js",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AstridMaciel@github.com/AstridMaciel/Lab-Whatsapp.git"
+  },
+  "author": "Astrid Tintaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstridMaciel/Lab-Whatsapp/issues"
+  },
+  "homepage": "https://github.com/AstridMaciel/Lab-Whatsapp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
